@@ -1,9 +1,19 @@
-## Може би не знаехте
+# Организация
 
+- да си направим месинджър група за въпроси със Стела
+- хора от минали години?
+
+# Може би не знаехте
+
+- Полезни extension-и + vs-code shortcuts 
 - commit hooks + aliases
 - ssh
 - docker
 - pipelines
+- как git работи отдолу
+- Какво са browser extensions? Как работят ad blocker-ите? Идеи за полезни extensions.
+
+# Задачи 
 
 ## Класиката
 
