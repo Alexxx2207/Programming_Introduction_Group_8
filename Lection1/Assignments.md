@@ -1,6 +1,9 @@
 ## Може би не знаехте
 
-- commit hooks
+- commit hooks + aliases
+- ssh
+- docker
+- pipelines
 
 ## Класиката
 
