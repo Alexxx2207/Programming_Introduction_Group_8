@@ -6,11 +6,13 @@
 
 int main() {
     int x = 10;
-    if(x += x -= 10)
-        std::cout << (x *= 20);
-    else
-        std::cout << x;
 
+    if(x += x -= 10) {
+        std::cout << (x *= 20);
+    } else {
+        std::cout << x;
+    }
+    
 	return 0;
 }
 ```
